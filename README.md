@@ -276,7 +276,7 @@ I'm always open to discussing new opportunities, collaborations, or just talking
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Mike Ndirangu"
         self.role = "Full-Stack Software Engineer"
         self.languages = ["JavaScript", "Python", "TypeScript", "SQL"]
         self.expertise = ["React", "Flask", "PostgreSQL", "AWS"]
