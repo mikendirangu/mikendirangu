@@ -18,7 +18,7 @@ I'm a full-stack software engineer with a passion for building robust, user-cent
 - Collaborated with cross-functional teams using Agile methodologies to deliver features on schedule
 - Implemented CI/CD pipelines and automated testing, increasing deployment efficiency by 80%
 ---
-## Skills
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,discord,docker,dotnet,eclipse,express,flask,flutter,git,github,gitlab,kali,kubernetes,linux,mongodb,mysql,nextjs,netlify,nodejs,npm,phpstorm,pnpm,postgres,postman,pycharm,py,supabase,sublime,tailwind,visualstudio,vite,vscode,vue,vuetify,wordpress,wasm)](https://skillicons.dev)
 
@@ -196,7 +196,7 @@ An intelligent CMS with AI-driven content recommendations and automated tagging 
 
 ---
 
-### 🌟 [Open Source Contribution: ``m.````
+### 🌟 [Open Source Contribution: Product-Progress-App]
 **Backend Infrastructure** | *Python, Docker, Kubernetes*
 
 Major contributions to an open-source project with [X] stars, focusing on backend optimization and containerization.
@@ -206,7 +206,7 @@ Major contributions to an open-source project with [X] stars, focusing on backen
 - Implemented Docker containerization for development environment
 - Authored documentation for 10+ API endpoints
 
-📂 [Repository](#) | 🔗 [Pull Requests](#)
+📂 [Repository](https://github.com/Austine-john/Product-Progress-App) | 🔗 [Pull Requests](https://github.com/Austine-john/Product-Progress-App/pull/4)
 
 ---
 
