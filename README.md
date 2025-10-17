@@ -218,7 +218,7 @@ Major contributions to an open-source project with [X] stars, focusing on backen
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikendirangu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikendirangu&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikendirangu&layout=compact&theme=radical&langs_count=8)
 
