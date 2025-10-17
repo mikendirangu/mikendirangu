@@ -10,7 +10,7 @@ I'm a full-stack software engineer with a passion for building robust, user-cent
 
 ## 💼 Professional Experience
 
-**Full-Stack Software Engineer** | *[Nebo Tech]*  
+**Full-Stack Software Engineer** |  
 * Present*
 - Architected and deployed full-stack applications serving 4305+ users, resulting in 92% improvement in performance
 - Built RESTful APIs using Flask and Python, integrating with PostgreSQL databases and implementing efficient ORM patterns
@@ -23,7 +23,7 @@ Here are professional role descriptions for a **System and Software Developer Co
 ---
 
 
-**System and Software Developer Consultant** | *Craft Legacy*  
+**System and Software Developer Consultant** | 
 
 - Consult with diverse clients to architect and build custom software solutions, delivering 15+ successful projects across e-commerce, fintech, and SaaS domains
 - Engineer scalable backend systems using Python and Flask, handling 50,000+ API requests per day with 99.9% uptime
