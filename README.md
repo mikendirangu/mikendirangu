@@ -218,11 +218,11 @@ Major contributions to an open-source project with [X] stars, focusing on backen
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikendirangu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikendirangu&layout=compact&theme=radical&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikendirangu&theme=radical)
 
 </div>
 
@@ -232,7 +232,7 @@ Major contributions to an open-source project with [X] stars, focusing on backen
 
 - 🥇 **Professional Scrum Master (PSM I)** - Scrum.org
 - 🎖️ Built and deployed 15+ production applications
-- 🌟 Contributed to 2+ open-source projects
+- 🌟 Contributed to 100+ open-source projects
 - 📝 Technical blog with 4K+ monthly readers
 - 🎤 Speaker at [Conference/Meetup Name]
 - 🏅 Winner of [Hackathon/Competition Name]
