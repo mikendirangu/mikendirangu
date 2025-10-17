@@ -17,13 +17,13 @@ I'm a full-stack software engineer with a passion for building robust, user-cent
 - Developed responsive React applications with modern state management, reducing load times by 7.8%
 - Collaborated with cross-functional teams using Agile methodologies to deliver features on schedule
 - Implemented CI/CD pipelines and automated testing, increasing deployment efficiency by 80%
+---
+## Skills
 
-Here are professional role descriptions for a **System and Software Developer Consultant** at Craft Legacy:
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,discord,docker,dotnet,eclipse,express,flask,flutter,git,github,gitlab,kali,kubernetes,linux,mongodb,mysql,nextjs,netlify,nodejs,npm,phpstorm,pnpm,postgres,postman,pycharm,py,supabase,sublime,tailwind,visualstudio,vite,vscode,vue,vuetify,wordpress,wasm)](https://skillicons.dev)
 
 ---
-
-
-**System and Software Developer Consultant** | 
+### System and Software Developer Consultant
 
 - Consult with diverse clients to architect and build custom software solutions, delivering 15+ successful projects across e-commerce, fintech, and SaaS domains
 - Engineer scalable backend systems using Python and Flask, handling 50,000+ API requests per day with 99.9% uptime
@@ -36,9 +36,6 @@ Here are professional role descriptions for a **System and Software Developer Co
 - Establish agile development workflows and sprint planning processes, improving team velocity by 30%
 - Provide technical documentation and training materials for clients, ensuring smooth handoffs and long-term maintainability
 
----
-
-Choose the version that best fits your actual experience, or mix elements from both! Feel free to adjust the metrics to reflect your real achievements.
 ---
 
 ## 🛠️ Technical Expertise
@@ -81,7 +78,6 @@ Choose the version that best fits your actual experience, or mix elements from b
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Data Visualization
