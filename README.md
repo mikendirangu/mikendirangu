@@ -229,9 +229,9 @@ Major contributions to an open-source project with [X] stars, focusing on backen
 - 🥇 **Professional Scrum Master (PSM I)** - Scrum.org
 - 🎖️ Built and deployed 15+ production applications
 - 🌟 Contributed to 100+ open-source projects
-- 📝 Technical blog with 4K+ monthly readers
-- 🎤 Speaker at [Conference/Meetup Name]
-- 🏅 Winner of [Hackathon/Competition Name]
+- 📝 Technical blog with 500+ monthly readers
+- 🎤 Speaker at [TCL world Tech]
+
 
 ---
 
